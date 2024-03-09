@@ -51,6 +51,8 @@ module.exports = defineConfig({
 		viewportHeight: 720,
 		viewportWidth: 1280,
 	},
+	projectId: "ctyeku"
+
 });
 
 function queryTestDb(query, config) {
