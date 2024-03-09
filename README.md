@@ -3,7 +3,7 @@
 - After you clone the repo need to install node modules  
 - Open the terminal 
 - Navigate to working directory in the terminal 
-- give the following commands
+- give the following commands.
 
 ```sh 
 
