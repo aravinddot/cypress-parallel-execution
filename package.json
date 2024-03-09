@@ -12,7 +12,8 @@
     "cy-regression": "cypress run --browser chrome --spec src/feature/homepage.feature",
     "cy-product": "cypress run --browser chrome --spec src/feature/product.feature",
     "cy-apiTest": "cypress run --browser chrome --spec src/feature/apiTestcase.feature",
-    "cy-databaseTest": "cypress run --browser chrome --spec src/feature/dataBaseTesting.feature"
+    "cy-databaseTest": "cypress run --browser chrome --spec src/feature/dataBaseTesting.feature",
+    "cy:cloud": "cypress run --record --key ab8e9003-82aa-409b-a928-a0cdcb90472b"
   },
   "author": "",
   "license": "ISC",
